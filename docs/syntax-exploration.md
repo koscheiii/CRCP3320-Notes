@@ -32,8 +32,9 @@ I can have a short snippet using `using the backtick character`
 // this is a 
 // muilti-line
 // code snippet
+```
 
-
+``` java
 public class MyJavaProgram {
     public static void main(String[] args) {
         System.out.println("This is a program!");

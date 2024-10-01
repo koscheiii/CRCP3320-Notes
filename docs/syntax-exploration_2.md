@@ -3,3 +3,5 @@
 [YouTube](https://www.youtube.com/@ellebasi6969)
 
 [Home Page](./index.md)
+
+[Links](./stuff/links.md)
