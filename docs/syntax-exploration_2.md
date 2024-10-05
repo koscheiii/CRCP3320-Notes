@@ -45,10 +45,10 @@ List 2
 
 ### Checklist
 
-[ ] list item
-[ ] list item
-[ ] list item
-    [ ] nested item
-    [ ] nested item
-[x] list item
-[x] list item
+- [ ] list item
+- [ ] list item
+- [ ] list item
+    - [ ] nested item
+    - [ ] nested item
+- [x] list item
+- [x] list item
