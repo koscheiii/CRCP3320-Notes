@@ -1,6 +1,8 @@
 # CRCP 3320 Notes - GitHub Pages
 
-This is a page for the GitHub Pages site.
+GitHub Username: koscheiii
+
+Short Description: Hello! I am a Junior at Southern Methodist University studying Creative Computing and Film & Media Arts with minors in Business and Photography.
 
 [Syntex, Part 1](./syntax-exploration.md)
 
