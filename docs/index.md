@@ -15,3 +15,5 @@ Short Description: Hello! I am a Junior at Southern Methodist University studyin
 [Link to October 10th HTML](./2024-10-10/index.html)
 
 <a href="./2024-10-10/index.html">Link to October 10th HTML</a>
+
+[Link to Final Project](./Final_Project_HTML/index.html)
